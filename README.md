@@ -7,3 +7,6 @@ It's very buggy.
 
 ### How to Play
 When the game opens, click the animated star on the empty menu screen. 
+
+- Movement: WASD
+- Jump: Space
